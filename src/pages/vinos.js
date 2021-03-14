@@ -3,7 +3,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-import Vinos from '../images/tragos.jpg'
+import Vinos from '../images/vinos.jpg'
 import '../styles/menu.css'
 
 const vinos = () => (
