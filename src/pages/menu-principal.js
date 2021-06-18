@@ -3,8 +3,8 @@ import * as React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-import Menu1 from '../images/menu-principal-1.jpg'
-import Menu2 from '../images/menu-principal-2.jpg'
+import Menu1 from '../images/mp1.jpg'
+import Menu2 from '../images/mp2.jpg'
 import '../styles/menu.css'
 
 const menuPrincipal = () => (
