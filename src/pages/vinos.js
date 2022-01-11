@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 import Vinos from '../images/vino1.jpg'
 import Vinos2 from '../images/vino2.jpg'
-import Flyer from '../images/flyervino.jpg'
+// import Flyer from '../images/flyervino.jpg'
 import '../styles/menu.css'
 
 const vinos = () => (
@@ -15,7 +15,7 @@ const vinos = () => (
         <h1>Vinos</h1>
         <img src={Vinos} alt="menu de vinos" />
         <img src={Vinos2} alt="menu de vinos" />
-        <img src={Flyer} alt="flyer de vinos" />
+        {/* <img src={Flyer} alt="flyer de vinos" /> */}
       </section>
   </Layout>
 )
