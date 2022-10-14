@@ -1,0 +1,13 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/banner-celu.jpg": "static/banner-celu-e5fe79fab6a100470059c359bc053ec0.jpg",
+  "static/banner-web.jpg": "static/banner-web-2b4b7543f6a89136320c855c2b3c9e0e.jpg",
+  "static/logo.jpg": "static/logo-28b55141e68fb379ee030befb09ccc82.jpg",
+  "static/mp1.jpg": "static/mp1-9d0a83a3e430736e988d14ca784ffe76.jpg",
+  "static/mp2.jpg": "static/mp2-43ddcf59b5096e5dfeac744b717e430a.jpg",
+  "static/tragos.jpg": "static/tragos-863e0d8408aea3193eff6ce2895cdb11.jpg",
+  "static/vino1.jpg": "static/vino1-56007f96195ab2bc2222edaecc9f409b.jpg",
+  "static/vino2.jpg": "static/vino2-f276e7572879a98fed18677233beffae.jpg",
+  "static/vino3.jpg": "static/vino3-057cc8cd0906a07002058e190cc96c64.jpg"
+}
