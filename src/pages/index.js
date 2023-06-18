@@ -22,6 +22,9 @@ const IndexPage = () => (
           <Link to="/tragos" className="btn-link">
             <button className="btn">Tragos</button>
           </Link>
+          <Link to="/sugerencias" className="btn-link">
+            <button className="btn">Sugerencias</button>
+          </Link>
         </div>
       </section>
 
